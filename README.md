@@ -11,7 +11,7 @@ b
 
 [Asteroids demo](https://klerith.github.io/claude-asteroids/)
 
-## Descripción del juego
+## Descripción del juego!
 
 Nave espacial en un campo de asteroides con envolvimiento de bordes (el espacio es toroidal). Destruye asteroides para sumar puntos: los grandes se parten en medianos, los medianos en pequeños. Incluye power-ups especiales y tipos de asteroides únicos como la estrella fugaz...
 
